@@ -24,7 +24,7 @@
     "copy-to-clipboard": "^3.3.1",
     "glob": "^7.1.7",
     "gray-matter": "^4.0.3",
-    "joi": "^17.4.1",
+    "joi": "^17.4.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
